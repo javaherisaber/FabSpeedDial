@@ -1,7 +1,7 @@
 [![](https://jitpack.io/v/javaherisaber/FabSpeedDial.svg)](https://jitpack.io/#javaherisaber/FabSpeedDial)
 # FabSpeedDial
 
-Android compose functions to add Speed dial options on top of FloatingActionButton and ExtendedFloatingActionButton
+Add Speed dial options on top of FloatingActionButton and ExtendedFloatingActionButton
 
 <img src="img/Screenshot.png" width="256" height="455">
 
